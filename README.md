@@ -2,7 +2,6 @@
 
 I'm a software engineer that likes simplicity and reliability
 
-[![Top Langs](https://github-readme-stats-eight-orcin-22.vercel.app/api/top-langs/?username=julio-alv&layout=compact&langs_count=10&theme=gruvbox&hide=javascript,html,makefile)](https://github.com/julio-alv)
 <!--
 **julio-alv/julio-alv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
