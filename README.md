@@ -1,7 +1,7 @@
 ### Hello 👋
 
-I'm a Software Engineer and Back-End Web Developer.
+I'm a Backend Developer and DevOps Engineer.
 
-Some of the topics that I really enjoy are: graphics programming, database internals, and development operations.
+I'm a performace-driven engineer, whether it's in a user-facing application or dev tools, I like when things are blazingly fast.
 
-![julio-alv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=julio-alv&theme=dark&show_icons=true&hide_border=true&layout=compact)
+Some other topics I really enjoy are: graphics programming, database internals, and low-level programming.
